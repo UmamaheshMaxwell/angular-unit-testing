@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome 57.0.2987 (Mac OS X 10.12.2)" package="" timestamp="2017-09-09T19:14:05" id="0" hostname="PM04.local" tests="17" errors="0" failures="0" time="0.015">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36"/>
+  </properties>
+  <testcase name="compute test suite should increment the input for positive value" time="0.002" classname="Chrome_57_0_2987_(Mac_OS_X_10_12_2).compute test suite"/>
+  <testcase name="compute test suite should return zero for negative values" time="0" classname="Chrome_57_0_2987_(Mac_OS_X_10_12_2).compute test suite"/>
+  <testcase name="Get Currency Suite should return the supported currencies" time="0.001" classname="Chrome_57_0_2987_(Mac_OS_X_10_12_2).Get Currency Suite"/>
+  <testcase name="Greet Test Suite should greet user " time="0" classname="Chrome_57_0_2987_(Mac_OS_X_10_12_2).Greet Test Suite"/>
+  <testcase name="VoteComponent Suite should upvote component" time="0" classname="Chrome_57_0_2987_(Mac_OS_X_10_12_2).VoteComponent Suite"/>
+  <testcase name="VoteComponent Suite should downvote component" time="0" classname="Chrome_57_0_2987_(Mac_OS_X_10_12_2).VoteComponent Suite"/>
+  <testcase name="Sample Form Suite should have required controls" time="0.002" classname="Chrome_57_0_2987_(Mac_OS_X_10_12_2).Sample Form Suite"/>
+  <testcase name="TodoFormComponent should create a form with two controls" time="0" classname="Chrome_57_0_2987_(Mac_OS_X_10_12_2).TodoFormComponent"/>
+  <testcase name="TodoFormComponent should make name control required" time="0" classname="Chrome_57_0_2987_(Mac_OS_X_10_12_2).TodoFormComponent"/>
+  <testcase name="VoteComponent should raise vote changed event when upvoted" time="0.001" classname="Chrome_57_0_2987_(Mac_OS_X_10_12_2).VoteComponent"/>
+  <testcase name="TodosComponent should set todos property with items returned from the server" time="0.002" classname="Chrome_57_0_2987_(Mac_OS_X_10_12_2).TodosComponent"/>
+  <testcase name="TodosComponent should set todos to string" time="0" classname="Chrome_57_0_2987_(Mac_OS_X_10_12_2).TodosComponent"/>
+  <testcase name="TodosComponent should call add method " time="0.005" classname="Chrome_57_0_2987_(Mac_OS_X_10_12_2).TodosComponent"/>
+  <testcase name="TodosComponent should add new todo " time="0.001" classname="Chrome_57_0_2987_(Mac_OS_X_10_12_2).TodosComponent"/>
+  <testcase name="TodosComponent should set the message property if server throws error " time="0" classname="Chrome_57_0_2987_(Mac_OS_X_10_12_2).TodosComponent"/>
+  <testcase name="TodosComponent should delete the item if user confirms it" time="0.001" classname="Chrome_57_0_2987_(Mac_OS_X_10_12_2).TodosComponent"/>
+  <testcase name="TodosComponent should not delete the item if user cancels it" time="0" classname="Chrome_57_0_2987_(Mac_OS_X_10_12_2).TodosComponent"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
